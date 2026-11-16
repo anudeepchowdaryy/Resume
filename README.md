@@ -5,7 +5,7 @@ SUMMARY
 Computer Science (AIML) undergraduate skilled in Java, Python, JavaScript, SQL, and Git. Built ML and web
 projects, and looking for SDE/Intern roles to deliver clean, testable features.
 EDUCATION
-Bachelor of Technology in CSE - AIML (Pursuing) – 2023 - 2027 | CGPA: 6.7
+Bachelor of Technology in CSE - AIML (Pursuing) – 2023 - 2027 | CGPA: 7.3
 Vignan’s Lara Institute of Technology and Science, Vadlamudi
 Intermediate (MPC) – 2021 - 2023 | GPA: 83.8
 Narayana junior college, Guntur
